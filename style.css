@@ -1,0 +1,70 @@
+body{
+    background-color:darkgray;
+    
+}
+h1{
+    font-size: 5em;
+    font-weight: 900;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  tr:nth-last-child(even) {
+      background-color: gainsboro
+    }
+    thead,th{
+        text-align: left;
+        background-color: black;
+        color: white;
+        font-size: 1em;
+        text-align: center;
+    }
+    a{
+        color: brown;
+    }
+    h2{
+        color: brown;
+        font-size: 2em;
+
+    }
+    h3{
+        color: brown;
+        font-size: 1.2em;
+
+    }
+    figure{
+        background-color: black;
+        border: solid medium brown;
+        border-radius: 1em; 
+        border-width: medium;
+        margin: 15px;
+        padding: 10px;
+        color: white; 
+        width: 900px;
+        height: 540px;
+        font-size: 16px;
+        font-weight: bold;      
+       text-align: justify;
+    }
+   
+    #lastp{
+        border: dashed rgb(98, 7, 218);
+        color: rgb(98, 7, 218);
+        margin: 30px;
+        font-size: 16px;
+        font-weight: bold;
+        padding: 15px;
+        line-height: 1.9em;
+       
+       
+    }
+    
